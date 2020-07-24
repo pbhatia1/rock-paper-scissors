@@ -1,0 +1,1 @@
+A basic 5-round Rock Paper Scissors game. Currently works in the browser console, will update in the future to make it more user friendly
